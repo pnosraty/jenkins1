@@ -2,5 +2,4 @@
 echo ' GIT PROJECT'
 echo ' Added another line'
 touch file.txt
-cd ~
-touch file2.txt
+sudo touch ~/file2.txt
